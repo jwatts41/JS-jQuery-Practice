@@ -4,7 +4,7 @@ function createDiv() {
             id: "div",
             class: "divclass",
             css: {
-                "color": "green"
+                "color": "red"
             }
         };
         let $div = $("<div>", test);
